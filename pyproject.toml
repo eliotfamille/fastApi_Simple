@@ -1,2 +1,2 @@
 [tool.fastapi]
-entrypoint = "path:Path"
+entrypoint = "query:Query"
