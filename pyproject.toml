@@ -1,2 +1,2 @@
 [tool.fastapi]
-endpoint = "main:app"
+entrypoint = "first:app"
